@@ -21,8 +21,8 @@ pipeline {
                     sh """
                         aws ecr get-login-password --region $AWS_REGION | \
                         docker login --username AWS --password-stdin $ECR_REPO
-                        docker build -t $ECR_REPO:latest -f app/Dockerfile app/
-                        docker push $ECR_REPO:latest
+                        sudo docker build -t $ECR_REPO:latest -f app/Dockerfile app/
+                        sudo docker push $ECR_REPO:latest
                     """
                 }
             }
