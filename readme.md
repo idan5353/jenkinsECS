@@ -63,3 +63,9 @@ After applying Terraform:
 git clone <your-repo-url>
 cd <repo-directory>
 
+<img width="1918" height="798" alt="צילום מסך 2025-08-16 233514" src="https://github.com/user-attachments/assets/7e5ef984-d140-4b24-b235-772e6cb3ba3d" />
+<img width="1920" height="863" alt="צילום מסך 2025-08-16 233614" src="https://github.com/user-attachments/assets/27c93d65-dc54-41ba-8300-034457f85fb3" />
+<img width="1920" height="831" alt="צילום מסך 2025-08-16 233703" src="https://github.com/user-attachments/assets/d8465029-30cc-4886-90cb-21ed8787202a" />
+<img width="1917" height="999" alt="צילום מסך 2025-08-16 233421" src="https://github.com/user-attachments/assets/724692db-41d1-4e63-812a-b666a20f2361" />
+<img width="1920" height="914" alt="צילום מסך 2025-08-16 233731" src="https://github.com/user-attachments/assets/f98c5f36-d088-4a69-bf9e-cbdd3057822d" />
+<img width="1918" height="913" alt="צילום מסך 2025-08-16 233833" src="https://github.com/user-attachments/assets/307044c3-c789-4953-92f8-c715d17b90e9" />
