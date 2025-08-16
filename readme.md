@@ -64,6 +64,8 @@ git clone <your-repo-url>
 cd <repo-directory>
 
 ---
+## How to Deploy
+
 <img width="1918" height="798" alt="צילום מסך 2025-08-16 233514" src="https://github.com/user-attachments/assets/7e5ef984-d140-4b24-b235-772e6cb3ba3d" />
 <img width="1920" height="863" alt="צילום מסך 2025-08-16 233614" src="https://github.com/user-attachments/assets/27c93d65-dc54-41ba-8300-034457f85fb3" />
 <img width="1920" height="831" alt="צילום מסך 2025-08-16 233703" src="https://github.com/user-attachments/assets/d8465029-30cc-4886-90cb-21ed8787202a" />
