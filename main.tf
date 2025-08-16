@@ -67,6 +67,11 @@ resource "aws_iam_role_policy_attachment" "jenkins_ecr" {
   policy_arn = "arn:aws:iam::aws:policy/AmazonEC2ContainerRegistryPowerUser"
 }
 
+resource "aws_iam_role_policy_attachment" "jenkins_ecs" {
+  role       = aws_iam_role.jenkins_role.name
+  policy_arn = "arn:aws:iam::aws:policy/AmazonECS_FullAccess"
+}
+
 resource "aws_instance" "jenkins" {
   ami           = data.aws_ami.ubuntu.id
   instance_type = "t3.medium"
